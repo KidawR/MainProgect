@@ -1,0 +1,2 @@
+pymongo~=4.15.3
+sqlalchemy~=2.0.44
